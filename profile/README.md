@@ -1,5 +1,13 @@
 <div align="center">
-  <img src="https://www.hikecapital.com/logo_black.png" alt="HIKE Capital Banner" width="25%" /> 
+
+  <picture>
+    <!-- 当用户处于 GitHub 深色模式时，显示白色字体的 Logo -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.hikecapital.com/logo_black.png">
+    <!-- 当用户处于 GitHub 浅色模式时，显示黑色字体的 Logo -->
+    <source media="(prefers-color-scheme: light)" srcset="https://www.hikecapital.com/logo-white.webp">
+    <!-- 默认回退图片 -->
+    <img alt="HIKE Capital Logo" src="https://www.hikecapital.com/logo-white.webp" width="240">
+  </picture>
   <p> </p>
   <p>找到推动范式变革的极少数人 / Finding the rare few who drive paradigm shifts</p>
 
