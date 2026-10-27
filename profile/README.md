@@ -12,7 +12,7 @@
   <p>找到推动范式变革的极少数人 / Finding the rare few who drive paradigm shifts</p>
 
   <p>
-    <a href="https://www.hikecapital.com/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+    <a href="https://www.hikecapital.com/" target="_blank"><img src="https://img.shields.io/badge/Website-gray?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
     <a href="mailto:bp@hikecapital.com"><img src="https://img.shields.io/badge/Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" /></a>
   </p>
 </div>
