@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://www.hikecapital.com/logo_black.png" alt="HIKE Capital Banner" width="25%" /> 
   <p> </p>
-  <p><i>找到推动范式变革的极少数人</i></p>
+  <p>找到推动范式变革的极少数人 / Finding the rare few who drive paradigm shifts</p>
 
   <p>
     <a href="https://www.hikecapital.com/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
